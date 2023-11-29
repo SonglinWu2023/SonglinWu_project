@@ -1,1 +1,2 @@
-# SonglinWu_project
+In the present work, four ML algorithms (i.e., RF, GBR, GPR, and SVR) were used to predict liquefaction products' yield and hydroxyl value.
+The trained GBR model was incorporated into a software package using MATLAB 2022a to facilitate its future applications. The Yield and HV of bio-polyols can be quickly and accurately obtained by keying in lignocellulosic biomass composition and reaction conditions.
